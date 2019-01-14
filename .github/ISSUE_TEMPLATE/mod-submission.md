@@ -2,7 +2,7 @@
 name: Mod Submission
 about: Submit a mod to be featured
 title: Submitting [MOD NAME] by [AUTHOR NAME]
-labels: ''
+labels: Submission
 assignees: ZudoMC
 
 ---
