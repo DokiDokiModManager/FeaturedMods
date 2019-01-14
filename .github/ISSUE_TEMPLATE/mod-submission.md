@@ -26,4 +26,4 @@ Please choose the appropriate option, and delete the others.
 If you have been given permission by a mod author to make this request, please provide proof of this.
 -->
 **I am the author of the mod and give permission for my mod to be rehosted by Doki Doki Mod Manager.**
-**I am not the author of the mod, but the author has given permission for my mod to be rehosted.**
+**I am not the author of the mod, but the author has given permission for my mod to be rehosted. I have provided proof below.**
