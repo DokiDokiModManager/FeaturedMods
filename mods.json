@@ -10,7 +10,7 @@
     "author": "Monika After Story Team",
     "description": "Spend the rest of your days with Monika as your virtual girlfriend.",
     "name": "Monika After Story",
-    "url": "https://github.com/Monika-After-Story/MonikaModDev/releases/download/v0.8.14/Monika_After_Story-0.8.14-Mod.zip"
+    "url": "https://github.com/Monika-After-Story/MonikaModDev/releases/download/v0.9.1/Monika_After_Story-0.9.1-Mod.zip"
   },
   {
     "author": "@DDLCPuristMod",
@@ -24,5 +24,12 @@
     "description": "Play through Act 1 from Sayori's point of view, with countless additional scenes.",
     "name": "Doki Doki! Rainclouds",
     "url": "https://firebasestorage.googleapis.com/v0/b/doki-doki-mod-manager.appspot.com/o/DokiDokiRainClouds-pc.zip?alt=media&token=b1977149-5ede-4c6c-9ac4-94c3aab647bc"
+  },
+  {
+    "author": "Karasil Sothern",
+    "content_warning": "Contains topics, scenes and content some players may find disturbing.",
+    "description": "A mod that goes over all the parts of the original game (except act four) in each of the girls' perspectives. Your choices have meaning in this.",
+    "name": "Doki Doki Changing Perspectives",
+    "url": "https://firebasestorage.googleapis.com/v0/b/doki-doki-mod-manager.appspot.com/o/public_mods%2FChangingPerspectives.zip?alt=media&token=34594347-0d18-498d-9331-bf8212f1d1d6"
   }
 ]
